@@ -7,7 +7,7 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
@@ -19,7 +19,7 @@ keywords:    "Machine Learning, ML, Artificial Intelligence, AI, HPC, hpc, High 
 description: "International Workshop on High Performance Machine Learning"
 source_link: ""
 favicon:     "img/cerebroIcon.png" #put a path like: "img/favicon.ico"
-touch_icon:  "imp/cerebroIcon.png" #put a path like: "img/apple-touch-icon.png"
+touch_icon:  "img/cerebroIcon.png" #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
@@ -32,6 +32,8 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  bluedownu: '#00008b'
+  reddownu:  '#ff0000'
 
 kramdown:
   auto_ids:  false
