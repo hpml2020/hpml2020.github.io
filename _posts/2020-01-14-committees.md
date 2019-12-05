@@ -16,6 +16,7 @@ fa-icon: group
 
 ### Workshop Committee
 
+- Behzad Salami - Barcelona SuperComputing Center, Spain
 - Brian Van Essen, Lawrence Livermore National Laboratory, USA
 - Daniela Ushizima, Lawrence Berkeley National Laboratory, USA
 - Dingwen Tao, University of Alabama, USA
@@ -23,5 +24,6 @@ fa-icon: group
 - Holger Fröning, University of Heidelberg, Germany
 - Janis Keuper, Fraunhofer Institute for Industrial Mathematics ITWM, Germany
 - Lucas Mello Schnorr, Universidade Federal do Rio Grande do Sul, UFRGS, Brazil
+- Konstantinos Parasyris - Barcelona SuperComputing Center, Spain
 - Olivier Beaumont, INRIA, France
 - Rick L. Stevens, Argonne National Laboratory, USA
