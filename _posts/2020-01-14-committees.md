@@ -23,7 +23,7 @@ fa-icon: group
 - Gabriel Perdue, Fermilab, USA
 - Holger Fröning, University of Heidelberg, Germany
 - Janis Keuper, Fraunhofer Institute for Industrial Mathematics ITWM, Germany
-- Lucas Mello Schnorr, Universidade Federal do Rio Grande do Sul, UFRGS, Brazil
 - Konstantinos Parasyris - Barcelona SuperComputing Center, Spain
+- Lucas Mello Schnorr, Universidade Federal do Rio Grande do Sul, UFRGS, Brazil
 - Olivier Beaumont, INRIA, France
 - Rick L. Stevens, Argonne National Laboratory, USA
