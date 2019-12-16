@@ -28,3 +28,4 @@ fa-icon: group
 - Lucas Mello Schnorr, Universidade Federal do Rio Grande do Sul, UFRGS, Brazil
 - Olivier Beaumont, INRIA, France
 - Rick L. Stevens, Argonne National Laboratory, USA
+- Yu Kong, Rochester Institute of Technology, USA
